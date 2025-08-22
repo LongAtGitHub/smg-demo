@@ -47,8 +47,6 @@ export default function Header() {
                                     <li>
                                           <a href="mailto:info@homeverse.com" className="header-top-link">
                                                 <IoMailOutline />
-                                                {/* <LogoNodejs/> */}
-                                                {/* <ion-icon name="mail-outline" /> */}
                                                 <span>info@homeverse.com</span>
                                           </a>
                                     </li>
